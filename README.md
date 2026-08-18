@@ -619,7 +619,7 @@ We welcome contributions from the community! If you'd like to contribute, please
 ### LightMem Series
 This repository belongs to ZJUNLP LightMem series, focusing on solving context bloat, excessive token consumption and low cache utilization for long-running LLM agents:
 - [LightMem](https://github.com/zjunlp/LightMem) — A lightweight and efficient memory management framework designed for Large Language Models and AI Agents
-- [LightMem2](https://github.com/zjunlp/LightMem2) —  A modular framework for long-running agent memory and context management
+- [LightRSI](https://github.com/zjunlp/LightRSI) — A modular framework for recursive improvement in long-horizon LLM Agents
 - [LightMem-Ego](https://github.com/zjunlp/LightMem-Ego) — A lightweight streaming multimodal memory system for everyday-life assistance
 
 ### Other Related Projects
