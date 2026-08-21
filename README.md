@@ -43,6 +43,7 @@
 <span id='news'/>
 
 ## 📢 News
+- **[2026-08-21]**: 🎉🎉🎉 **EM²Mem: Event-Centric Multimodal Memory for Large Language Models** has been accepted by **EMNLP 2026**!
 - **[2026-07-13]**: 🎉🎉🎉LightMem has been selected for the CCF ODTC open source incentive program.
 - **[2026-04-24]**: 🚀 LightMem now supports the latest [**DeepSeek**](./src/lightmem/configs/memory_manager/base_config.py) models, including `deepseek-v4-flash` and `deepseek-v4-pro`, with `reasoning_effort` and thinking-mode configuration!
 - **[2026-04-24]**: 🎉🎉🎉 [**StructMem: Structured Memory for Long-Horizon Behavior in LLMs**](https://arxiv.org/abs/2604.21748) has been accepted by **ACL 2026**!
